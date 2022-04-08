@@ -1,3 +1,4 @@
+#그리디 실버1문제
 N, M = map(int, input().split())
 
 Meats=[]
@@ -20,4 +21,5 @@ if pin >=0 and pin <=N-1:
     print(Meats[pin][1])
 else:
     print(-1)
-    
+
+#틀렸다!
